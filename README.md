@@ -32,7 +32,7 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/instabot2/bot-igeh.git
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
