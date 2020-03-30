@@ -40,6 +40,7 @@
 	* ls
 	* Then select the tool you want to use!
 	* node index
+	* Komen in text is in Malay Language
 	
 <br/>
 
